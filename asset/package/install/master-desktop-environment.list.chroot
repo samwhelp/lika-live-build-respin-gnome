@@ -70,5 +70,13 @@ remmina
 
 xarchiver
 
-pavucontrol
-pulseaudio
+
+
+
+##
+## pipewire-alsa : Conflicts: pulseaudio but 16.1+dfsg1-2+b1 is to be installed
+## pipewire-audio : Conflicts: pulseaudio but 16.1+dfsg1-2+b1 is to be installed
+##
+
+#pavucontrol
+#pulseaudio
