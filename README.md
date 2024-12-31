@@ -2,7 +2,7 @@
 
 # Home
 
-> lika-live-build-respin-gnome
+> [lika-live-build-respin-gnome](https://github.com/samwhelp/lika-live-build-respin-gnome)
 
 
 
